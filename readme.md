@@ -27,7 +27,7 @@ CustomTkinter
 
 🚀 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/caesar-cipher-gui.git
+git clone https://github.com/YatanCyber/SCT_CS_01
 cd caesar-cipher-gui
 
 2️⃣ Install Required Library
